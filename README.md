@@ -92,11 +92,11 @@ Contact us :  https://t.me/Anonymous_9383524bot
 canal: https://t.me/name_dark
 =====================================
 
-<iframe width="420" height="315"
+video controls src="https://f.top4top.io/m_2697s8hpl0.mp4">
 
-src="https://f.top4top.io/m_2697s8hpl0.mp4">
+متصفحك لا يدعم العنصر video.
 
-</iframe>
+</video>
 
 
 
