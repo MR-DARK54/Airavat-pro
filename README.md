@@ -92,12 +92,6 @@ Contact us :  https://t.me/Anonymous_9383524bot
 canal: https://t.me/name_dark
 =====================================
 
-<center>
-<video width="320" height="540" controls>  <source src="https://f.top4top.io/m_2697s8hpl0.mp4" type="video/mp4">
-
-</video>
-
-</center>  
 
 
 
@@ -121,3 +115,6 @@ video : https://f.top4top.io/m_2697s8hpl0.mp4
 
 
 <p align='center'><img src="https://k.top4top.io/p_26982lmb91.jpg" ></p>
+
+
+<h2 align='center'>Contact me to purchase </h2>
