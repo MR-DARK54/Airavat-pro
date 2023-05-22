@@ -94,9 +94,7 @@ canal: https://t.me/name_dark
 
 video controls src="https://f.top4top.io/m_2697s8hpl0.mp4">
 
-متصفحك لا يدعم العنصر video.
-
-</video>
+متصفحك لا يدعم العنصر video.</video>
 
 
 
