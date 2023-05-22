@@ -4,6 +4,19 @@ Android botnet
 
 
 
+
+
+<p align='center'><img style="height:100px;width:100px" src="icon.png" ></p>
+
+<h2 align='center'>Track Down people by just using a link.</h2>
+
+<div align="center">
+
+[![https://telegram.me/name_dark](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/name_dark)
+
+</div>
+
+
 Telegram  :  https://t.me/name_dark
 
 
@@ -77,7 +90,7 @@ https://t.me/name_dark
 
 ##
 
-<center>https://top4top.io/dela050d341463585b73fda5dbddfdb1402.html</center>  
+
 
 
 
