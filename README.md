@@ -84,11 +84,28 @@ Features list
 
 Contact us :  https://t.me/Anonymous_9383524bot 
 =====================================
-https://t.me/name_dark
 
 
 
-##
+
+
+canal: https://t.me/name_dark
+=====================================
+
+
+
 
 
 video : https://f.top4top.io/m_2697s8hpl0.mp4
+=====================================
+
+
+
+
+
+
+# photo 
+
+
+
+<center>https://c.top4top.io/p_26984gl7i1.jpg</center> 
