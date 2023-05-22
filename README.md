@@ -82,8 +82,8 @@ Features list
 
 ✅ It starts automatically when you restart your device
 
-Contact us
-
+Contact us :  https://t.me/Anonymous_9383524bot 
+=====================================
 https://t.me/name_dark
 
 
